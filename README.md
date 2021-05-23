@@ -1,1 +1,1 @@
-# kafka-study
+# kafka-com.study
