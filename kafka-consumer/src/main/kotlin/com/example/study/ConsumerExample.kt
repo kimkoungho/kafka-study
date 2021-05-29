@@ -6,5 +6,9 @@ import com.example.study.consumer.*
 
 fun main(args: Array<String>) {
 
-    consumeSimple()
+//    consumeSimple()
+//    consumeSyncCommit()
+//    consumeAsyncCommit()
+//    consumeWithRebalanceListener()
+    consumeWithExactPartition()
 }

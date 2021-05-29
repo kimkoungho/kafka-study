@@ -6,7 +6,7 @@ import java.util.*
 
 
 private const val BOOTSTRAP_SERVERS = "my-kafka:9092"
-private const val GROUP_ID = "test-group-3"
+private const val GROUP_ID = "test-group"
 const val TOPIC_NAME = "test"
 
 fun createKafkaConfig() : Properties {
